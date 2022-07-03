@@ -18,7 +18,7 @@ on:
       DEVICE_URL:
         description: 'DEVICE_URL'
         required: true
-        default: 'https://github.com/Parvej899/-android_device_tecno_kg8-TWRP'
+        default: 'https://github.com/twrpdtgen/android_device_symphony_ATOM'
       DEVICE_BRANCH:
         description: 'DEVICE_BRANCH'
         required: true
@@ -26,11 +26,11 @@ on:
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/tecno/KG8'
+        default: 'device/symphony/Atom'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'KG8'
+        default: 'ATOM'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
