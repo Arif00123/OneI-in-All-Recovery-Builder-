@@ -21,6 +21,6 @@ Release Notes/update
 
 
 
-by parvejkhan889900
+By  parvejkhan889900@gmail.com
 
 
